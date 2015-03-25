@@ -9,8 +9,8 @@ This project use a php Proxy to grab an rss feed containing video enclosures (fr
 
 # To run this demo
 - Clone this git repo to a folder under the webroot of a php server (for the proxy)
-- run `npm install` 
-- run `bower init`
+- run `npm install` (with root privileges)
+- run `bower install` (as your regular self)
 
 # Gruntfile.js
 Grunt will handle the job of building dependencies with Google's closure library. But once you get the bower packages installed, the code should run right out of the box.
