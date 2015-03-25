@@ -1,0 +1,32 @@
+{
+  "name": "Videojs-UI-With-Angular.js",
+  "version": "0.1.0",
+  "description": "An example of how to create Videojs UI Controls with Angularjs and JQuery.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spaceninja7u/Videojs-UI-With-Angular.js.git"
+  },
+  "keywords": [
+    "Video.js",
+    "Angular"
+  ],
+  "author": "Spaceninja7u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spaceninja7u/Videojs-UI-With-Angular.js/issues"
+  },
+  "homepage": "https://github.com/Spaceninja7u/Videojs-UI-With-Angular.js",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-closure-tools": "^0.9.8",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-shell": "^1.1.1",
+    "matchdep": "^0.3.0",
+    "maxmin": "^1.0.0"
+  }
+}
