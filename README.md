@@ -1,5 +1,5 @@
 # Videojs-UI-With-Angular.js
-An example of how to create Videojs UI Controls with Angularjs and JQuery.
+An example of how to create Videojs UI Controls with Angularjs and JQuery. For now it only implements a single component, and that will be found in my forked video.js repo at https://github.com/Spaceninja7u/video-angularwidget.js, and is declared as a dependency that bower will install for this repo. The point of this repo is to provide the project files for a blog entry of mine.
 
 This project use a php Proxy to grab an rss feed containing video enclosures (from lifehacker.com) and converts the xml to JSON for us.
 
